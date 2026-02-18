@@ -22,5 +22,7 @@ lakelu avi sake ya to M(modified -> koi fiel ma chnage karyu hoy) avu dekhadi sa
 
 ** git commite -m "discription(su leva update kari e lakhvu)" 
 
+** git push origin main -> have aa code lakhya pachi j aa code github ma show thse tya sudhi na thy
+
 
 
