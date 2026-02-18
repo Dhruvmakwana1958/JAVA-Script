@@ -1,0 +1,26 @@
+--> sav thi pela GIT & GITHUB nam nu folder banvyu pachi terminal open kari ne ......
+(ahi apde thodo change karyo che mtlb by default je terminal ma right side poweshell ave ene change karyu che kem ke amuk commnd git bash
+ma j lagu pade to e badlyu ka thi? to ke ctrl+shift+p ->select default profile ->gitbash , bydefault = powershale) 
+
+**git clone link -> github ma banaveli file ne local folder ma execute karva mtlb ke github ma thi vs code ma show karva mate
+
+-->clone karva thi je file hati github ma te ahi show thava lagi but apdu controle haju GIT & GITHUB upar che but apde kam teni andar ni directory
+sathe karvanu che mtlb JAVA-Script sathe to have tene access karva directory change karvi pade(cd)
+
+**cd JAVA-Script/ directory change karava 
+
+** ls -> list show karse
+
+**git status -> status janva mate use thy mtlb shu je code github ma che te j code ahi vs code ma show thy che ke nhi
+shu koi navi html file add kari che? shu koi present file ne modified kari che? jo evu hse to stsuts print karavta te show thy jse ane jo modified
+ny karyu hoy to no change em dekhadse (left side je files dekhade che jo tema mota word thi U (untracked->new file that git dosen't track)
+lakelu avi sake ya to M(modified -> koi fiel ma chnage karyu hoy) avu dekhadi sake )
+
+--> aa file ni je error ave che te dur karva status ma thi error kadhva mate te file ne add karvi pade
+
+** git add . -> badhi file add thy jase
+
+** git commite -m "discription(su leva update kari e lakhvu)" 
+
+
+
