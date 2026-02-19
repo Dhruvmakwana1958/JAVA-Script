@@ -24,5 +24,7 @@ lakelu avi sake ya to M(modified -> koi fiel ma chnage karyu hoy) avu dekhadi sa
 
 ** git push origin main -> have aa code lakhya pachi j aa code github ma show thse tya sudhi na thy
 
+** cd .. -> directory ni bahar nikadva 
+
 
 
