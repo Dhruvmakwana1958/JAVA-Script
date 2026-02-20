@@ -1,3 +1,8 @@
+// REMOTE TO LOCAL CHANGE
+
+
+
+
 --> sav thi pela GIT & GITHUB nam nu folder banvyu pachi terminal open kari ne ......
 (ahi apde thodo change karyo che mtlb by default je terminal ma right side poweshell ave ene change karyu che kem ke amuk commnd git bash
 ma j lagu pade to e badlyu ka thi? to ke ctrl+shift+p ->select default profile ->gitbash , bydefault = powershale) 
